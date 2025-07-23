@@ -1,0 +1,6 @@
+> load "EllipticCurveOverQrootminus7.m";
+Loading "EllipticCurveOverQrootminus7.m"
+Time: 76.150
+Degree of the extension [F:K] = 42
+
+Total time: 76.180 seconds, Total memory usage: 96.16MB

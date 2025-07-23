@@ -1,0 +1,23 @@
+> load "FinalThueStep.m";
+Loading "FinalThueStep.m"
+Loading "FindOpenImage.m"
+Loading "../precomputation/ComputeFrobData.m"
+Loading "../main/GL2GroupTheory.m"
+Loading "../main/ModularCurves.m"
+Loading "../data-files/cyclic_invariant_polynomials.m"
+j-invariants for the curve X_{ns}^+(49): { -262537412640768000, -147197952000, 
+-884736000, -32768, 1728, 8000, 287496 }
+Every j-invariant in the list above is CM
+j-invariants for the curve X_{sp}^#(49): { -12288000, -884736, 0, 54000 }
+Every j-invariant in the list above is CM
+j-invariants for the curve X_{ns}^#(49): { 0 }
+Every j-invariant in the list above is CM
+------------------------
+Discriminants of the j-invariants for Cns+(49):
+[ -43, -8, -163, -67, -16, -11, -4 ]
+Discriminants of the j-invariants for Gsp#(49):
+[ -3, -12, -19, -27 ]
+Discriminants of the j-invariants for Gns#(49):
+[ -3 ]
+
+Total time: 11.560 seconds, Total memory usage: 607.53MB

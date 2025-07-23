@@ -1,0 +1,5 @@
+> load "49.147.9.a.1.m";
+Loading "49.147.9.a.1.m"
+j(P) is 0 mod 49 for every point P in X(Z/49Z)
+
+Total time: 7.290 seconds, Total memory usage: 32.09MB

@@ -1,0 +1,33 @@
+> load "DoMWSieve.m";
+Loading "DoMWSieve.m"
+Loading "ModelsXE.m"
+Loading "Generators.m"
+Loading "ModelsXE.m"
+Loading "DivisorReduction.m"
+Loading "Saturation.m"
+Loading "DivisorReduction.m"
+Loading "MWSieve.m"
+Loading "DivisorReduction.m"
+Loading "Saturation.m"
+Loading "DivisorReduction.m"
+Checking saturation
+=== X_{E_1} ===
+The subgroup <D> is saturated at least at the following primes: { 2, 3, 7, 11, 
+29 }
+=== X_{E_2} ===
+The subgroup <D_1, D_2> is saturated at least at the following primes: { 2, 3, 
+37 }
+=== X_{E_4} ===
+The subgroup <D_1, D_2> is saturated at least at the following primes: { 2, 3, 5
+}
+=== X_{E_1} ===
+All rational points on X_{E_1} lie in the following residue classes mod 41 : [ 
+(0 : 1 : 0) ]
+=== X_{E_2} ===
+All rational points on X_{E_2} lie in the following residue classes mod 73 : [ 
+(0 : 1 : 0), (1 : 1 : 0) ]
+=== X_{E_4} ===
+All rational points on X_{E_2} lie in the following residue classes mod 31 : [ 
+(0 : 0 : 1), (0 : 1 : 0) ]
+
+Total time: 51.909 seconds, Total memory usage: 104.31MB

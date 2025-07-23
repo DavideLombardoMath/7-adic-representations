@@ -1,0 +1,24 @@
+> load "ChabautyColeman.m";
+Loading "ChabautyColeman.m"
+Loading "Generators.m"
+Loading "ModelsXE.m"
+Loading "DivisorReduction.m"
+Loading "Saturation.m"
+Loading "DivisorReduction.m"
+Loading "coleman.m"
+Loading "auxpolys.m"
+Loading "coho.m"
+Loading "froblift.m"
+Loading "reductions.m"
+Loading "singleintegrals.m"
+Loading "applications.m"
+=========== X_{E_1} ===========
+Number of zeroes in the residue disc of [0 : 1 : 0]: 1
+=========== X_{E_2} ===========
+Number of zeroes in the residue disc of [0 : 1 : 0]: 1
+Number of zeroes in the residue disc of [1 : 1 : 0]: 1
+=========== X_{E_4} ===========
+Number of zeroes in the residue disc of [0 : 1 : 0]: 1
+Number of zeroes in the residue disk of [0 : 0 : 1]: 1
+
+Total time: 112.989 seconds, Total memory usage: 214.53MB

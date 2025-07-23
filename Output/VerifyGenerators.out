@@ -1,0 +1,91 @@
+> load "VerifyGenerators.m";
+Loading "VerifyGenerators.m"
+Loading "Generators.m"
+Loading "ModelsXE.m"
+Loading "DivisorReduction.m"
+Loading "Saturation.m"
+Loading "DivisorReduction.m"
+Loading "ModelsXE.m"
+Loading "TwoDescent.m"
+Loading "Cubic.m"
+Loading "LinearAlgebra.m"
+Loading "LocalConditions.m"
+Algebra A Number Field with defining polynomial t^8 - t^7 - 7*t^6 + 7*t^2 - 27*t
+    - 1 over the Rational Field
+Ideal defining R (to check rationality) Ideal of Polynomial ring of rank 3 over 
+    Rational Field
+Order: Lexicographical
+Variables: $.1, $.2, $.3
+Homogeneous
+Basis:
+[
+    $.1^2 - $.2*$.3,
+    $.1*$.2 + 21/5*$.1*$.3 - 28/5*$.3^2,
+    $.1*$.3 - 5/28*$.2^2 - 3/4*$.2*$.3
+]
+The three points in the support of R do not lie on a line: true
+Factors of A tensor Q_2: [*
+    Extension of 2-adic field mod 2^100 by x^2 - 
+        (78995501059831787362209811069*2^3 + O(2^100))*x + 
+        356362259777241133776758922739 + O(2^100),
+    Extension of 2-adic field mod 2^100 by x^6 + (631964008478654298897678488551
+        + O(2^100))*x^5 + (283423864316362245446491621423*2 + O(2^100))*x^4 + 
+        (615646835477507957444239998955 + O(2^100))*x^3 + 
+        (118038821957509065664801503071*2 + O(2^100))*x^2 + 
+        (220399361511192594798863018783 + O(2^100))*x + 
+        149021908077973269381837651141 + O(2^100)
+*]
+F_2-dimension of local Selmer conditions at 2: 4
+Number of elements in the fake Selmer group: 1
+Loading "ModelsXE.m"
+Algebra A Number Field with defining polynomial t^8 + 2*t^7 - 14*t^4 + 28*t^2 + 
+    60*t + 92 over the Rational Field
+Ideal defining R (to check rationality) Ideal of Polynomial ring of rank 3 over 
+    Rational Field
+Order: Lexicographical
+Variables: $.1, $.2, $.3
+Homogeneous
+Basis:
+[
+    $.1^2 - 5/16*$.2*$.3 - $.3^2,
+    $.1*$.2 + $.1*$.3 - 13/8*$.2*$.3,
+    $.1*$.3 + 5/26*$.2^2 - 85/104*$.2*$.3 + 8/13*$.3^2
+]
+The three points in the support of R do not lie on a line: true
+Factors of A tensor Q_2: [*
+    Extension of 2-adic field mod 2^100 by x^8 + (2 + O(2^100))*x^7 + 
+        O(2^100)*x^6 + O(2^100)*x^5 - (7*2 + O(2^100))*x^4 + O(2^100)*x^3 + 
+        (7*2^2 + O(2^100))*x^2 + (15*2^2 + O(2^100))*x + 23*2^2 + O(2^100)
+*]
+F_2-dimension of local Selmer conditions at 2: 3
+Number of elements in the fake Selmer group: 2
+Loading "ModelsXE.m"
+Algebra A Number Field with defining polynomial t^8 + t^7 - 7*t^6 + 7*t^2 + 27*t
+    - 1 over the Rational Field
+Ideal defining R (to check rationality) Ideal of Polynomial ring of rank 3 over 
+    Rational Field
+Order: Lexicographical
+Variables: $.1, $.2, $.3
+Homogeneous
+Basis:
+[
+    $.1^2 + 201/1969*$.1*$.3 - 5/1969*$.2*$.3 - 388/1969*$.3^2,
+    $.1*$.2 - 642/1969*$.1*$.3 + 927/1969*$.2*$.3 - 524/1969*$.3^2,
+    $.1*$.3 - 9845/436622*$.2^2 - 43880/218311*$.2*$.3 - 65664/218311*$.3^2
+]
+The three points in the support of R do not lie on a line: true
+Factors of A tensor Q_2: [*
+    Extension of 2-adic field mod 2^100 by x^2 + 
+        (78995501059831787362209811069*2^3 + O(2^100))*x + 
+        356362259777241133776758922739 + O(2^100),
+    Extension of 2-adic field mod 2^100 by x^6 - (631964008478654298897678488551
+        + O(2^100))*x^5 + (283423864316362245446491621423*2 + O(2^100))*x^4 - 
+        (615646835477507957444239998955 + O(2^100))*x^3 + 
+        (118038821957509065664801503071*2 + O(2^100))*x^2 - 
+        (220399361511192594798863018783 + O(2^100))*x + 
+        149021908077973269381837651141 + O(2^100)
+*]
+F_2-dimension of local Selmer conditions at 2: 4
+Number of elements in the fake Selmer group: 2
+
+Total time: 181.250 seconds, Total memory usage: 192.25MB
