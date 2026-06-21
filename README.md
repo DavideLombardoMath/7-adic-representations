@@ -28,7 +28,7 @@ See Section 6 of the article for details on two-descent, the Mordell-Weil sieve,
 Download the full folder. The following external repositories are also required:
 
 - https://github.com/jtuitman/Coleman
-- https://github.com/davidzywina/OpenImage
+- https://github.com/davidzywina/OpenImage. The file 'FinalThueStep.m' should be placed inside the _main_ folder from this repository.
 - https://github.com/edgarcosta/CHIMP
 
 ### Files and Their Roles
