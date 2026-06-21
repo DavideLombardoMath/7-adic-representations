@@ -29,6 +29,7 @@ Download the full folder. The following external repositories are also required:
 
 - https://github.com/jtuitman/Coleman
 - https://github.com/davidzywina/OpenImage
+- https://github.com/edgarcosta/CHIMP
 
 ### Files and Their Roles
 
